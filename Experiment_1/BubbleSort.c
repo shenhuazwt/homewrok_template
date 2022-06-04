@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//冒泡排序
 void bubbleSort(int *list,int n){
     int numberOfPairs = n;
     int swappedElements = 1;
