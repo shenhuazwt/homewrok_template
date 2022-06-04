@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #import "2_1_KnapsackDP.c"
-#import "1_1_randomInteger.c"
+#import "/workspace/homewrok_template/Experiment_1/1_1_randomInteger.c"
+
 int length[8]={10, 20, 40, 100, 200, 400, 800, 2000};//数据个数
 int Container[4] = {200,400,800,2000};//容量
 
