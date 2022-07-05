@@ -27,7 +27,7 @@
 
 ## 实验内容
 
-1. [mian.c](Experiment_2/2_1_main.c) 算法实现的C语言版本
+1. [mian.c](./Experiment_2/2_1_main.c) 算法实现的C语言版本
 
 ## 实验预期结果与实际结果
 
