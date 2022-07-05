@@ -33,7 +33,7 @@
 
 
 实验过程及实验结果（C版）
-
+[画图结果][数据集](./data/折线图.jpg)
 gitpod /workspace/homewrok_template (main) $ gcc -o max.exe max.c
 gitpod /workspace/homewrok_template (main) $ ./max.exe 
 结果：100
